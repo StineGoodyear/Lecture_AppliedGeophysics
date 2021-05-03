@@ -1,4 +1,4 @@
-name: environment
+name: example-environment
 channels:
   - conda-forge
 dependencies:
@@ -7,8 +7,6 @@ dependencies:
   - toolz
   - matplotlib
   - dill
-  - pandas
   - partd
   - bokeh
-  - dask
   - scipy
