@@ -10,3 +10,4 @@ dependencies:
   - partd
   - bokeh
   - scipy
+  - pandas
