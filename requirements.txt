@@ -1,2 +1,6 @@
 numpy == 1.21.2
 matplotlib == 3.5.0
+scipy
+math
+time
+Inversion
